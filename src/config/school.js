@@ -41,14 +41,11 @@ const school = {
 
   history: `Kotepur, about 12 km from Mangalore, is economically backward, but this area is attractive due to its natural beauty. On one side is the raging beach, on the other side is the Netravati river, which flows calmly and merges with the sea. Every year, when nature is in turmoil, politicians, scientific surveyors and many departmental officials come and satisfy us with their words of hope, assurance and consolation, and we are relieved from the little relief given to us.
 
-Although the main occupation was fishing, the people of our Kotepura, who were forced to make a living by doing other side jobs due to economic hardship, received education very late.
-
 "Nahi Gyanena Sadrisham" The Syed Madani Charitable Trust, realizing the meaningful words of the elders that there is nothing equal to knowledge, set to work to light the lamp of this letter in every corner of Ullal. In 1982, the people of Kotipura laughed and laughed happily. The atmosphere of celebration in every house was festive, the excitement of enrolling children in school, the pride of having achieved something, the laughter, the campaign "Come and learn in our school". Our school enrolled more than 120 students that day.
 
 Our school, which started with Urdu as the first language, named after "Tipu Sultan", the hero who first raised the flag of freedom in the history of India, never looked back and grew healthily. When the first batch of 7th grade students came out with 100% results in 1989, the village leaders felt a sense of satisfaction.
 
-Our children want to continue their secondary education here. As the saying goes, "Vidyayu Vindate Amritam", education is the precious treasure that gives nectar. By accomplishing this great feat, Syed Madani Charitable Trust successfully took its bold step by starting the 8th grade in 1989, giving the people of this town an inexhaustible wealth. Although the institution faced many administrative difficulties, today our institution is satisfied that the high school has successfully completed twenty years.
-We feel proud when we see our students opting for medical professional education and technical professional education after graduating. It is a matter of joy to see students with foreign experience who have successfully gone as far as Bangladesh to represent India, and those who have studied in our school. Isn't this success in a short period of time a reflection of the achievements of our institution.`,
+`,
 
   vision: [
     "Provide accessible quality education to children in Kotepura and surrounding areas",
@@ -66,7 +63,8 @@ We feel proud when we see our students opting for medical professional education
 
    principal: {
     name: "B.M. Rafeeq Thumbe  ",
-    message: "Our goal is to provide children with high-quality and value-based education.",
+    message: "Our goal is to provide children with high-quality and value-based education. Along with quality education, we also instill values and good character in our students.  When a child receives education along with extracurricular activities, leadership qualities, cooperation, and a sense of responsibility, only then can they live with dignity and respect in society in the future.  "
+    ,
     image: principalImage,
   },
 
